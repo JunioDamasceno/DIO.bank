@@ -1,0 +1,16 @@
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.deps.json
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.json
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.dev.json
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.dll
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/ref/DIO.bank.dll
+/home/junio/git/dotnet/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.pdb
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.csprojAssemblyReference.cache
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfoInputs.cache
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfo.cs
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.csproj.CoreCompileInputs.cache
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.dll
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/ref/DIO.bank.dll
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.pdb
+/home/junio/git/dotnet/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.genruntimeconfig.cache
